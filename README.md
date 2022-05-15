@@ -7,8 +7,8 @@ I'm **programmer** in Sopot, Poland.
 Big enthusiast of remote working (my dog likes it!)
 
 ### Professional career
-* Experience in process automation (UiPath / C# / sometimes Python)
-* Currently focusing on system integrations in Azure environment
+* Experience in process automation (UiPath / C# / Powershell / Python)
+* Currently focusing on system integrations in Azure environment (API Management / Azure Functions)
 
 
 

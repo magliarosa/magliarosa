@@ -2,7 +2,7 @@
 
 **Welcome on my page!**
 
-I'm **programmer** in Sopot, Poland.
+I'm **programmer** working in Sopot, Poland.
 
 Big enthusiast of remote working (my dog likes it!)
 

@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+
+**Welcome on my page!**
+
+I'm **programmer** in Sopot, Poland.
+
+Big enthusiast of remote working (my dog likes it!)
+
+### Professional career
+* Experience in process automation (UiPath / C# / sometimes Python)
+* Currently focusing on system integrations in Azure environment
+
+
 
 <!--
 **magliarosa/magliarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

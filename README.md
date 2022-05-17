@@ -17,6 +17,7 @@ Big enthusiast of remote working 🏡 / 🏖️ (my dog likes it!)
 * REST API
 * SQL
 * Azure
+* Azure DevOps / TFS
 * UiPath
 * Powershell
 * Python (some scripts)

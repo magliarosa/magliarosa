@@ -19,7 +19,7 @@ Big enthusiast of remote working 🏡 / 🏖️ (my dog likes it!)
 * Azure
 * UiPath
 * Powershell
-* Python
+* Python (some scripts)
 * A little of frontend (React)
 
 

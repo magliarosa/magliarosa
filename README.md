@@ -8,7 +8,7 @@ You can find me on <a href="https://www.linkedin.com/in/tomaszmakowski/"><img sr
 Big enthusiast of remote working 🏡 / 🏖️ (my dog likes it!)
 
 ### What am i doing professionally? 👷‍♂️
-* Experience in process automation (UiPath / C# / Powershell / Python)
+* Previously robotic process automation (UiPath / C# / Powershell / Python)
 * Currently focusing on system integrations in Azure environment (API Management / Azure Functions)
 
 ### What do I know? 🧠

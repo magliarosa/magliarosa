@@ -7,7 +7,7 @@ You can find me on <a href="https://www.linkedin.com/in/tomaszmakowski/"><img sr
 
 Big enthusiast of remote working 🏡 / 🏖️ (my dog likes it!)
 
-### What am i doing professionally? 👷‍♂️
+### What am I doing professionally? 👷‍♂️
 * Previously robotic process automation (UiPath / C# / Powershell / Python)
 * Currently focusing on system integrations in Azure environment (API Management / Azure Functions)
 
@@ -27,6 +27,7 @@ Big enthusiast of remote working 🏡 / 🏖️ (my dog likes it!)
 ### What do I want to know? 📖
 1. ASP.NET Core
 2. GitHub Actions
+3. Docker
 
 ### Why 'magliarosa'?
 I'm a big fan of road cycling 🚴.  

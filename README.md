@@ -31,7 +31,7 @@ Big enthusiast of remote working 🏡 / 🏖️ (my dog likes it!)
 
 ### Why 'magliarosa'?
 I'm a big fan of road cycling 🚴.  
-Maglia rosa is just pink jersey - hallmark of the leader of **Giro d'Italia**.
+Maglia rosa is just the race leader's jersey at the **Giro d'Italia**.
 
 # **That's all folks!** 🥕
 

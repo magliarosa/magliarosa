@@ -12,8 +12,7 @@ Big enthusiast of remote working 🏡 / 🏖️ (my dog likes it!)
 * Currently focusing on system integrations in Azure environment (API Management / Azure Functions)
 
 ### What do I know? 🧠
-* C#
-* .NET
+* C# / .NET
 * REST API
 * SQL
 * Azure
@@ -21,10 +20,11 @@ Big enthusiast of remote working 🏡 / 🏖️ (my dog likes it!)
 * UiPath
 * Powershell
 * Python (some scripts)
+* TFS / Azure DevOps
 * A little of frontend (React)
 
 
-### What do I want to know? 📖
+### What do I want to know (learning plans)? 📖
 1. ASP.NET Core
 2. GitHub Actions
 3. Docker

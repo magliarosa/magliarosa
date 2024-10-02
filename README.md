@@ -5,8 +5,6 @@
 I'm **programmer** living in Poland.  
 You can find me on <a href="https://www.linkedin.com/in/tomaszmakowski/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="15"/></a>
 
-Big enthusiast of remote working 🏡 / 🏖️ (my dog likes it!)
-
 ### What am I doing professionally? 👷‍♂️
 * Previously robotic process automation (UiPath / C# / Powershell / Python)
 * Currently focusing on system integrations in Azure environment (API Management / Azure Functions)
